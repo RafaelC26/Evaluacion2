@@ -1,0 +1,21 @@
+{
+  "name": "evaluacion2-arbol-genealogico-api",
+  "version": "1.0.0",
+  "description": "API REST (CRUD) de árbol genealógico hasta 2.º grado de consanguinidad - Node/Express + MongoDB Atlas, desplegada en Vercel",
+  "main": "src/app.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.3.0",
+    "mongoose": "^8.24.5"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "author": "RafaelC26"
+}
